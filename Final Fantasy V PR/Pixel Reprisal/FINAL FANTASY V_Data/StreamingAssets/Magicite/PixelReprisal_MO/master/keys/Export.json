@@ -1,0 +1,10 @@
+{
+  "keys": [
+    "character_asset",
+    "field_character_asset"
+  ],
+  "values": [
+    "Assets/GameAssets/Serial/Data/Master/character_asset",
+    "Assets/GameAssets/Serial/Data/Master/field_character_asset"
+  ]
+}
